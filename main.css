@@ -10983,3 +10983,9 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+@media (min-width: 500px) {
+  #sideNav .navbar-brand .img-profile {
+    display: none;
+  }
+}
